@@ -1,36 +1,152 @@
-# Project Scope Statement  
+# Final Project Scope Statement
 
-## Computer Maintenance Business Website
+## Final Project Website
 
-## Project Purpose
+Tyler Wittie Personal Website
 
-The purpose of this project is to design and launch a professional personal website that supports a computer maintenance and technical support business. The website will serve as a digital presence to communicate services offered, establish credibility, and provide potential clients with clear ways to contact and engage with the business.
+## Project Manager
 
-## Project Description
+Tyler Wittie
 
-This project includes the design, development, and deployment of a responsive website focused on computer maintenance services. The website will include the following core components:
+## Project Purpose and Justification
 
-- Home page introducing the business and value proposition  
-- Services page outlining computer repair and maintenance offerings  
-- Tools & Resources page listing recommended software and hardware tools  
+This project creates a professional website for my computer maintenance services. The site will clearly explain what I do, who it is for, and how someone can contact me to book help.
+Instead of explaining services through texts or scattered messages, the website gives me one central location to send people. It also supports my long-term goal of breaking into IT by serving as both a service hub and a professional portfolio.
 
-The site will be developed using HTML and CSS and deployed publicly for client access via GitHub.
+## Definition of Success
 
-## Desired Results
+A visitor can open the live site on mobile or desktop, navigate to **Home, Services, About, and Contact** from the main navigation, and successfully reach every page with no broken links and clear formatting.
 
-Upon completion, the website will:
+## Project Objectives
 
-- Clearly communicate available computer maintenance services
-- Establish credibility and trust through structured information and clean design  
-- Serve as a foundation for future growth
+1. Publish a live website on GitHub Pages that loads correctly on mobile and desktop.
+2. Include a Services page listing core offerings with short descriptions.
+3. Include an About page explaining my background and tools.
+4. Include a Contact page with at least one clear contact method.
+5. Ensure every navigation link works with no broken links.
 
-## Exclusions
+## Scope Description
 
-The following items are outside the scope of this project:
+The project will build or update my GitHub Pages site into a clean, organized computer maintenance website. The site will include:
 
-- E-commerce functionality or online payment processing  
-- Automated booking or scheduling systems  
-- Ongoing digital marketing campaigns  
-- Paid advertising at initial launch  
+- Homepage
+- Services page
+- About page
+- Contact page
 
-Future enhancements may include expanded service offerings.
+Each page will follow a consistent layout and styling. The focus is clarity, professionalism, and ease of navigation.
+
+## Locked Pages List (Global Navigation)
+
+### 1. Home
+
+Brief introduction and clear entry points to Services and Contact.
+
+### 2. Services
+
+List of core service offerings with short explanations.
+
+### 3. About
+
+Background information, tools used, and professional goals.
+
+### 4. Contact
+
+Clear instructions on how to reach me and what information to include.
+
+## Deliverables
+
+1. Live website hosted on GitHub Pages.
+2. Navigation visible on all pages (Home, Services, Pricing, About, Contact).
+3. Homepage with clear introduction and call-to-action.
+4. Services page with clearly described services.
+5. About page explaining background and capabilities.
+6. Contact page with at least one working contact method.
+7. Updated README explaining site structure and update process.
+
+## Acceptance Criteria
+
+1. The site loads correctly on mobile and desktop.
+2. Navigation works on every page.
+3. Services page includes at least five clearly described services.
+4. Contact page includes at least one working contact method.
+5. No broken internal or external links.
+6. Visual design remains consistent across pages.
+
+## Out of Scope
+
+1. No backend database.
+2. No user accounts or logins.
+3. No paid hosting.
+4. No advanced search or server-side features.
+5. No payment processing.
+6. No live chat system.
+
+## Assumptions
+
+1. GitHub Pages remains available for hosting.
+2. I maintain access to all repository files.
+3. Contact links remain active and functional.
+
+## Constraints
+
+1. Must be completed within the course timeline.
+2. Built using HTML and CSS
+3. Must stay aligned with the approved scope.
+4. Time is limited due to other coursework and responsibilities like work.
+
+## Key Stakeholders
+
+1. Instructor (evaluation and grading).
+2. Student project manager (planning and execution).
+3. Visitors/customers (need clear information and contact access).
+4. Potential employers viewing the site as a portfolio example.
+
+## Major Milestones
+
+- Scope statement completed: February 20, 2026
+- Site map finalized: February 20, 2026
+- Services drafted: February 20, 2026
+- Pages built and styled: February 20, 2026
+- Link check and mobile review: February 20, 2026
+- Final submission: march 1, 2026
+
+## Estimated Effort and Schedule
+
+Work will be completed in focused sessions, one page at a time. Navigation and homepage will be built first, followed by Services, then Pricing and About. Final stage will include link testing and mobile optimization.
+
+## Risks and Mitigation
+
+### Risk 1: Broken links
+
+Mitigation: Perform full link check before submission.
+
+### Risk 2: Scope creep
+
+Mitigation: Stick to pages and postpone extra features.
+
+### Risk 3: Inconsistent design
+
+Mitigation: Use shared CSS and consistent layout structure.
+
+### Risk 4: Running out of time
+
+Mitigation: Publish a complete basic version early and refine.
+
+### Risk 5: Content feels incomplete
+
+Mitigation: Prioritize clarity over extra features.
+
+## Change Control
+
+Any scope changes after approval will require a written change request explaining:
+
+- The requested change
+- The reason it adds value
+- Impact on time, quality, and effort
+
+## Approval
+
+**Project Manager:** Tyler Wittie  
+
+**Date:** February 20, 2026
