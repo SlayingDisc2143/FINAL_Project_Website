@@ -46,5 +46,9 @@ ul {
 }
 li {
     display: inline-block;
-    margin: 20px;
+    margin: 10px;
+    text-align: right;
+    color: #000000;
+    margin-bottom: 30px;
+
 }
