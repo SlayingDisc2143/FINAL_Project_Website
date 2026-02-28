@@ -17,9 +17,11 @@ The purpose of this website is to:
 
 Rather than treating this as just an assignment, I approached it as a functional portfolio piece.
 
-## Live Website
+## Live Website and Repository
 
-link <https://github.com/SlayingDisc2143/FINAL_Project_Website>
+live site <>
+
+Repositiry <https://github.com/SlayingDisc2143/FINAL_Project_Website>
 
 ## Site Structure
 
