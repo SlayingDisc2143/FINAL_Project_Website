@@ -78,6 +78,10 @@ img {
 
 /* ===== SERVICES CARDS ===== */
 
+.refs h2{
+    text-align: center;
+}
+
 .cards {
     display: flex;
     justify-content: center;
@@ -106,6 +110,7 @@ img {
 
 .card h2 {
     margin: 15px 0 10px 0;
+    text-align: center;
 }
 
 .card p {

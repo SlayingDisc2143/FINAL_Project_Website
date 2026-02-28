@@ -10,12 +10,16 @@ Tyler Wittie
 
 ## Project Purpose and Justification
 
-This project creates a professional website for my computer maintenance services. The site will clearly explain what I do, who it is for, and how someone can contact me to book help.
+This project creates a professional website for my computer maintenance services. The site will clearly explain what I do, who it is for, and how someone can contact me to book help.  
 Instead of explaining services through texts or scattered messages, the website gives me one central location to send people. It also supports my long-term goal of breaking into IT by serving as both a service hub and a professional portfolio.
 
 ## Definition of Success
 
 A visitor can open the live site on mobile or desktop, navigate to **Home, Services, About, and Contact** from the main navigation, and successfully reach every page with no broken links and clear formatting.
+
+### Implementation Clarification
+
+The final implemented structure combines the Home and About sections into a single homepage. The Tools page was added to strengthen the professional portfolio aspect of the site. All pages must remain fully functional, consistent, and professionally structured.
 
 ## Project Objectives
 
@@ -25,16 +29,26 @@ A visitor can open the live site on mobile or desktop, navigate to **Home, Servi
 4. Include a Contact page with at least one clear contact method.
 5. Ensure every navigation link works with no broken links.
 
+### Structural Note
+
+The homepage fulfills both the Home and About objectives. The Tools page supports the About objective by demonstrating technical equipment and hands-on capability.
+
 ## Scope Description
 
 The project will build or update my GitHub Pages site into a clean, organized computer maintenance website. The site will include:
 
-- Homepage
-- Services page
-- About page
-- Contact page
+- Homepage  
+- Services page  
+- About page  
+- Contact page  
 
 Each page will follow a consistent layout and styling. The focus is clarity, professionalism, and ease of navigation.
+
+### Final Implemented Structure
+
+- Homepage (Home + About combined)  
+- Services page  
+- Tools page  
 
 ## Locked Pages List (Global Navigation)
 
@@ -54,6 +68,10 @@ Background information, tools used, and professional goals.
 
 Clear instructions on how to reach me and what information to include.
 
+### Final Navigation
+
+Home, Services, and Tools are present in the live implementation. The homepage serves the About function.
+
 ## Deliverables
 
 1. Live website hosted on GitHub Pages.
@@ -64,6 +82,17 @@ Clear instructions on how to reach me and what information to include.
 6. Contact page with at least one working contact method.
 7. Updated README explaining site structure and update process.
 
+### Final Delivered Components
+
+- Live GitHub Pages site  
+- Consistent navigation across all pages  
+- Homepage serving as About section  
+- Services page with defined PC tiers  
+- Tools page describing equipment used  
+- Shared external CSS file  
+- Documentation folder (scope, plan, retrospective)  
+- Professional README  
+
 ## Acceptance Criteria
 
 1. The site loads correctly on mobile and desktop.
@@ -72,6 +101,13 @@ Clear instructions on how to reach me and what information to include.
 4. Contact page includes at least one working contact method.
 5. No broken internal or external links.
 6. Visual design remains consistent across pages.
+
+### Measured Completion Criteria
+
+- All links manually tested  
+- CSS consistent across pages  
+- Responsive layout below 800px width  
+- Images load correctly with attribution  
 
 ## Out of Scope
 
@@ -91,9 +127,9 @@ Clear instructions on how to reach me and what information to include.
 ## Constraints
 
 1. Must be completed within the course timeline.
-2. Built using HTML and CSS
+2. Built using HTML and CSS.
 3. Must stay aligned with the approved scope.
-4. Time is limited due to other coursework and responsibilities like work.
+4. Time is limited due to other coursework and work responsibilities.
 
 ## Key Stakeholders
 
@@ -109,27 +145,35 @@ Clear instructions on how to reach me and what information to include.
 - Services drafted: February 20, 2026
 - Pages built and styled: February 20, 2026
 - Link check and mobile review: February 20, 2026
-- Final submission: march 1, 2026
+- Final submission: March 1, 2026
 
 ## Estimated Effort and Schedule
 
-Work will be completed in focused sessions, one page at a time. Navigation and homepage will be built first, followed by Services, then Pricing and About. Final stage will include link testing and mobile optimization.
+Work will be completed in focused sessions, one page at a time. Navigation and homepage will be built first, followed by Services, then Tools. Final stage will include link testing and mobile optimization.
+
+### Execution Approach
+
+- Build HTML structure first  
+- Apply shared CSS styling  
+- Test responsiveness  
+- Validate navigation and image links  
+- Final documentation review  
 
 ## Risks and Mitigation
 
-### Risk 1: Broken links
+### Risk 1: Broken links  
 
 Mitigation: Perform full link check before submission.
 
-### Risk 2: Scope creep
+### Risk 2: Scope creep  
 
 Mitigation: Stick to pages and postpone extra features.
 
-### Risk 3: Inconsistent design
+### Risk 3: Inconsistent design  
 
 Mitigation: Use shared CSS and consistent layout structure.
 
-### Risk 4: Running out of time
+### Risk 4: Running out of time  
 
 Mitigation: Publish a complete basic version early and refine.
 
@@ -137,16 +181,19 @@ Mitigation: Publish a complete basic version early and refine.
 
 Mitigation: Prioritize clarity over extra features.
 
+### Additional Development Risk
+
+Visual Studio Code and GitHub synchronization issues may impact workflow. Early commit testing mitigates this risk.
+
 ## Change Control
 
 Any scope changes after approval will require a written change request explaining:
 
-- The requested change
-- The reason it adds value
-- Impact on time, quality, and effort
+- The requested change  
+- The reason it adds value  
+- Impact on time, quality, and effort  
 
 ## Approval
 
 **Project Manager:** Tyler Wittie  
-
 **Date:** February 20, 2026
