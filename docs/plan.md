@@ -26,7 +26,7 @@ The focus is clarity, professionalism, and technical consistency.
 - **Transfer:** N/A
 - **Accept:** Minor formatting errors that can be corrected quickly.
 - **Mitigate:** Perform full manual click-test before submission.
-- **Eliminate:** Keep folder structure simple (root HTML + single CSS).
+- **Eliminate:** Keep folder structure simple.
 
 ## Risk 3: Inconsistent Design
 

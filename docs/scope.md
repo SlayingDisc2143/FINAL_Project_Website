@@ -19,7 +19,7 @@ This project applies principles from *Project Management for the Unofficial Proj
 
 ## Definition of Success
 
-A visitor can open the live site on mobile or desktop, navigate to **Home, Services, About, and Contact** from the main navigation, and successfully reach every page with no broken links and clear formatting.
+A visitor can open the live site on mobile or desktop, navigate to **Home, Services, and Tools** from the main navigation, and successfully reach every page with no broken links and clear formatting.
 
 ### Measurable Success Indicators
 
@@ -33,8 +33,8 @@ A visitor can open the live site on mobile or desktop, navigate to **Home, Servi
 
 1. Publish a live website on GitHub Pages that loads correctly on mobile and desktop.
 2. Include a Services page listing core offerings with short descriptions.
-3. Include an About page explaining my background and tools.
-4. Include a Contact page with at least one clear contact method.
+3. Include an About page explaining my background (Home).
+4. Include a Tools page with all the tool I use for computer maintinance.
 5. Ensure every navigation link works with no broken links.
 
 ### Project Management Application
@@ -60,44 +60,38 @@ To prevent scope creep (PMUPM Chapter 3), only approved pages and styling featur
 
 ### 1. Home
 
-Brief introduction and clear entry points to Services and Contact.
+Brief introduction and clear entry points to Services and Tools.
 
 ### 2. Services
 
 List of core service offerings with short explanations.
 
-### 3. About
+### 3. Tools
 
-Background information, tools used, and professional goals.
-
-### 4. Contact
-
-Clear instructions on how to reach me and what information to include.
+Clear visible tools that I use to work on computers, with discriptors.
 
 ## Deliverables
 
 1. Live website hosted on GitHub Pages.
-2. Navigation visible on all pages (Home, Services, Pricing, About, Contact).
+2. Navigation visible on all pages (Home, Services, Tools).
 3. Homepage with clear introduction and call-to-action.
 4. Services page with clearly described services.
-5. About page explaining background and capabilities.
-6. Contact page with at least one working contact method.
-7. Updated README explaining site structure and update process.
+5. Tools page with benefitial perspective PR and partnership exposure
+6. Updated README explaining site structure and update process.
 
 ### Documentation Deliverables
 
-- `scope.md` (revised from peer feedback)
-- `plan.md` (including TAME risk framework and Work Breakdown Structure)
-- `retrospective.md` (reflective analysis aligned with Chapter 7)
+- `scope.md`
+- `plan.md`
+- `retrospective.md`
 
 ## Acceptance Criteria
 
 1. The site loads correctly on mobile and desktop.
 2. Navigation works on every page.
 3. Services page includes at least five clearly described services.
-4. Contact page includes at least one working contact method.
-5. No broken internal or external links.
-6. Visual design remains consistent across pages.
+4. No broken internal or external links.
+5. Visual design remains consistent across pages.
 
 ### Validation Method
 
@@ -139,10 +133,9 @@ The instructor evaluates project management integration, while visitors and pote
 ## Major Milestones
 
 - Scope statement completed: February 20, 2026
-- Site map finalized: February 20, 2026
-- Services drafted: February 20, 2026
-- Pages built and styled: February 20, 2026
-- Link check and mobile review: February 20, 2026
+- Site map finalized: February 22, 2026
+- Pages built and styled: February 24, 2026
+- Link check and review: February 28, 2026
 - Final submission: March 1, 2026
 
 ## Estimated Effort and Schedule
