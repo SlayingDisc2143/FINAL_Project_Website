@@ -10,7 +10,7 @@ The focus is clarity, professionalism, and technical consistency.
 
 ## Risk 1: Scope Creep
 
-**Trigger:** Adding unnecessary features, animations, extra pages, or complex layouts beyond requirements.
+**Trigger:** Adding unnecessary features, extra pages, or complex layouts beyond requirements.
 
 - **Avoid:** Follow approved scope and locked page list.
 - **Transfer:** N/A
